@@ -63,7 +63,8 @@ The project includes pre-populated records for:
 - ER Diagram (designed manually or via tool)
 - Git & GitHub for version control and publishing
 
-!(https://github.com/user-attachments/assets/d017ea8b-5887-4e89-b30c-5a29165c780a)
+![WhatsApp Image 2025-06-14 at 14 24 18_b23ce43c](https://github.com/user-attachments/assets/b27bad95-7600-48f6-819f-c4283875054d)
+
 
 ![WhatsApp Image 2025-06-14 at 14 36 11_20a73000](https://github.com/user-attachments/assets/f72db642-4f8c-4428-888b-6932d5aebc8a)
 
